@@ -1,2 +1,2 @@
 #spring-boot-template
-Spring Boot 1.4.0 template for developing REST APIs and tests.
+Spring Boot 1.4.1 template for developing REST APIs and tests.
